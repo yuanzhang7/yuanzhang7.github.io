@@ -2,7 +2,7 @@
 
 This is the latest version of my homepage's source code. 
 
-[yuanzhang7.github.io](https://yaoleiqi.github.io/) or [qi-yaolei.netlify.app](https://qi-yaolei.netlify.app/)
+[yuanzhang7.github.io](https://yaoleiqi.github.io/)
 
 
 ### Acknowledgements
