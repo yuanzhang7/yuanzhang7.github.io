@@ -2,7 +2,7 @@
 title: Yuan Zhang
 position: Ph.D. Student
 affiliation: Southeast University
-affiliation_link: http://www.seu.edu.cn
+affiliation_link: http://www.seu.edu.cns
 affiliation_logo: 
 email: yuanzhang_ (at) seu.edu.cn
 
@@ -18,11 +18,10 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=43lNKkcAAAAJ&hl=zh-CN
-cv_link: https://github.com/YaoleiQi/
-github_link: https://github.com/YaoleiQi/
-linkedin: https://github.com/YaoleiQi/
-twitter: https://github.com/YaoleiQi/
+google_scholar: 
+github_link: https://github.com/yuanzhang7/
+linkedin: 
+twitter: 
 
 # Images 
 avatar: ./assets/img/avatar.png
