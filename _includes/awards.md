@@ -3,10 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
 
 <ul>
-  <li>2022，Southeast University First-Class Academic Scholarship </li>
-  <li>2021，Excellent Post-Graduate, Jiangsu</li>
-  <li>2021，Southeast University First-Class Academic Scholarship </li>  
-  <li>2020，Southeast University First-Class Academic Scholarship </li>
-  <li>2017，National Third Prize and Provincial Special Prize in Computer Design Competition</li>
+  <li>2022，Southeast University Second-Class Academic Scholarship </li>
+  <li>2018，NorthWestern Polytechnical University First-Class Academic Scholarship </li>
 </ul>
 
