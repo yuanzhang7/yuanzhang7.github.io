@@ -2,7 +2,7 @@
 
 This is the latest version of my homepage's source code. 
 
-[yuanzhang7.github.io](https://yaoleiqi.github.io/)
+[yuanzhang7.github.io](https://yuanzhang7.github.io/)
 
 
 ### Acknowledgements
