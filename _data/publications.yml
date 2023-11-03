@@ -9,3 +9,9 @@ main:
     bibtex: ./publication/2023_ICCV/DSCNet.txt
     image: ./publication/2023_ICCV/DSCNet.png
 
+    - title: Development and Validation of Deep learning Model for Diagnosis and Subtupes Differentiation of Myeloproliferative Neoplasms Using Clinical Data and Digital Pathology
+    authors: Rong Wang*,Zhongxun Shi*，<strong>Yuan Zhang*</strong>,Yongyue Wei.etc
+    conference_short: ASH
+    conference: The 65th ASH Annual Meeting & Exposition.
+
+
