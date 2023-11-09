@@ -8,7 +8,7 @@ layout: homepage
 
 I am currently a Ph.D. student in the Department of Computer Science at [Southeast University](https://www.seu.edu.cn), Nanjing. I am fortunate to be advised by [Prof. Guanyu Yang](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm) for doctoral studies. Prior to this, I achieved master's degree at Imperial College London supervised by [Dr Andrew Scott](https://www.imperial.ac.uk/people/a.scott07) and bachelor's degree at Northwestern Polytechinical University. 
 
-My research lies at the intersection of **Deep Learning** and **Artificial Intelligence in Medicine** -- with a special focus on dealing with the tough task in histopathology image analysis. My research interests include **medical imaging**, **weakly-supervised learning**, **federated learning**, **foundation model**, and **multiple modality fusion**, etc.
+My research lies at the intersection of **Deep Learning** and **Artificial Intelligence in Medicine** -- with a special focus on dealing with the tough task in histopathology image. My research interests include **medical imaging**, **weakly-supervised learning**, **federated learning**, **foundation model**, and **multiple modality fusion**, etc.
 
 {% include_relative _includes/news.md %}
 
