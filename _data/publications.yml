@@ -1,7 +1,7 @@
 main:
 
   - title: FedSoda Federated cross-assessment and dynamic aggregation for Histopathology Segmentation
-    authors: Yuan Zhang, <strong>Yaolei Qi</strong>, Xiaoming Qi, LLotfi Senhadji, Yongyue Wei, Feng Chen, Guanyu Yang
+    authors: <strong>Yuan Zhang</strong>, Yaolei Qi, Xiaoming Qi, LLotfi Senhadji, Yongyue Wei, Feng Chen, Guanyu Yang
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2024.
     pdf: ./publication/2024_ICASSP/FedSoDa.pdf
@@ -11,7 +11,7 @@ main:
     image: ./publication/2024_ICASSP/FedSoDa.jpg
   
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
-    authors: <strong>Yaolei Qi</strong>, Yuting He Xiaoming Qi, Yuan Zhang, Guanyu Yang
+    authors: Yaolei Qi, Yuting He Xiaoming Qi, <strong>Yuan Zhang</strong>, Guanyu Yang
     conference_short: ICCV
     conference: International Conference  on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: ./publication/2023_ICCV/DSCNet.pdf
