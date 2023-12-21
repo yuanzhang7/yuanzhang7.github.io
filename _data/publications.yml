@@ -4,11 +4,11 @@ main:
     authors: <strong>Yuan Zhang</strong>, Yaolei Qi, Xiaoming Qi, LLotfi Senhadji, Yongyue Wei, Feng Chen, Guanyu Yang
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2024.
-    pdf: ./publication/2024_ICASSP/FedSoDa.pdf
+    pdf: ./publication/2024_ICASSP/FedSODA.pdf
     code: https://github.com/yuanzhang7/FedSODA
     # page: ./pub_homepage/2023_ICCV/index.html
-    bibtex: ./publication/2024_ICASSP/FedSoDa.txt
-    image: ./publication/2024_ICASSP/FedSoDa.jpg
+    bibtex: ./publication/2024_ICASSP/FedSODA.txt
+    image: ./publication/2024_ICASSP/FedSODA.jpg
   
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
     authors: Yaolei Qi, Yuting He Xiaoming Qi, <strong>Yuan Zhang</strong>, Guanyu Yang
