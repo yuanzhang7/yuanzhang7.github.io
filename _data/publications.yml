@@ -9,15 +9,7 @@ main:
     # page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2024_ICASSP/FedSoDa.txt
     image: ./publication/2024_ICASSP/FedSoDa.jpg
-  - title: STANet Spatio-Temporal Adaptive Network and Clinical Prior Embedding Learning for 3D+T CMR Segmentation
-    authors: Xiaoming Qi, Yuting He, <strong>Yaolei Qi</strong>, Youyong Kong, Guanyu Yang, Shuo Li
-    conference_short: JBHI
-    conference: IEEE Journal of Biomedical and Health Informatics, 2023.
-    # pdf: ./publication/2023_ICCV/DSCNet.pdf
-    # code: https://github.com/YaoleiQi/DSCNet
-    # page: ./pub_homepage/2023_ICCV/index.html
-    bibtex: ./publication/2023_JBHI/STANet.txt
-    image: ./publication/2023_JBHI/STANet.jpg
+  
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
     authors: <strong>Yaolei Qi</strong>, Yuting He Xiaoming Qi, Yuan Zhang, Guanyu Yang
     conference_short: ICCV
@@ -29,19 +21,4 @@ main:
     bibtex: ./publication/2023_ICCV/DSCNet.txt
     image: ./publication/2023_ICCV/DSCNet.jpg
     others: '<a href="https://github.com/YaoleiQi/DSCNet" target="_blank" rel="noopener"><strong> <i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a><script>githubStars("YaoleiQi/DSCNet", function(stars) {var startext = document.getElementById("githubstars_manets"); startext.innerHTML=stars;});</script>'
-  - title: Partial Vessels Annotation-based Coronary Artery Segmentation with Self-training and Prototype Learning
-    authors: Zheng Zhang*, Xiaolei Zhang*, <strong>Yaolei Qi</strong>, Guanyu Yang (*Equal contribution) 
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: ./publication/2023_MICCAI/PVA.pdf
-    code: https://github.com/ZhangZ7112/PVA-CAS
-    bibtex: ./publication/2023_MICCAI/PVA.txt
-    image: ./publication/2023_MICCAI/PVA.jpg
-  - title: Examinee Examiner Network Weakly Supervised Accurate Coronary Lumen Segmentation Using Centerline Constraint
-    authors: <strong>Yaolei Qi</strong>*, Han Xu*,  Yuting He, Guanyu Li, Zehang Li, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shengxian Tu (*Equal contribution) 
-    conference_short: TIP
-    conference: IEEE Transactions on Image Processing  <strong>(TIP)</strong>, Volume 30, 2021.
-    pdf: ./publication/2021_TIP/EENet.pdf
-    code: https://github.com/YaoleiQi/Examinee-Examiner-Network
-    bibtex: ./publication/2021_TIP/EENet.txt
-    image: ./publication/2021_TIP/EENet.jpg
+
