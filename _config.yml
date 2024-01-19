@@ -18,10 +18,12 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-google_scholar: 
+google_scholar: https://scholar.google.com/citations?user=ikxbso8AAAAJ&hl=en&oi=ao
 github_link: https://github.com/yuanzhang7/
 linkedin: 
 twitter: 
+
+cv_pdf: "./assets/CV_Yuan_Zhang.pdf"
 
 # Images 
 avatar: ./assets/img/avatar.jpg
