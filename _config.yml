@@ -23,6 +23,7 @@ github_link: https://github.com/yuanzhang7/
 linkedin: 
 twitter: 
 
+theme: jekyll-theme-minimal
 CV: ./assets/files/CV_YuanZhang.pdf
 
 # Images 

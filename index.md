@@ -19,4 +19,8 @@ My research lies at the intersection of **Deep Learning** and **Artificial Intel
 {% include_relative _includes/contact.md %}
 
 
-[CV](./assets/files/CV_YuanZhang.pdf){:target="_blank"}
+[CV](./assets/files/CV_YuanZhang.pdf)
+
+<object data="./assets/files/CV_YuanZhang.pdf" type="application/pdf" width="100%" height="600px">
+  <p>抱歉，无法显示 PDF 文件，您可以点击<a href="./assets/files/CV_YuanZhang.pdf">这里</a>下载.</p>
+</object>
