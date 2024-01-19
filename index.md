@@ -19,4 +19,4 @@ My research lies at the intersection of **Deep Learning** and **Artificial Intel
 {% include_relative _includes/contact.md %}
 
 
-[CV](./assets/files/CV_YuanZhang.pdf)
+[CV](./assets/files/CV_YuanZhang.pdf){:target="_blank"}
