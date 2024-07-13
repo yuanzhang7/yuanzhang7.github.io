@@ -1,5 +1,22 @@
 main:
 
+   - title: Energy-induced Explicit quantification for Multi-modality MRI fusion
+    authors: Xiaoming Qi, <strong>Yuan Zhang</strong>, Wang Tong, Guanyu Yang, Yueming Jin, Shou Li
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: ./publication/2024_ECCV/EEPA.pdf
+    code: https://github.com/JerryQseu/EEPA
+    bibtex: ./publication/2024_ECCV/EEPA.txt
+    image: ./publication/2024_IECCV/Challenge.jpg
+
+  - title: DSCENet: Dynamic Screening and Clinical-Enhanced Multimodal Fusion for MPNs Subtype Classification
+    authors: <strong>Yuan Zhang</strong>, Yaolei Qi, Xiaoming Qi, Yongyue Wei, Guanyu Yang
+    conference_short: ICASSP
+    conference: The Medical Image Computing and Computer Assisted Intervention Society <strong>(MICCAI)</strong>, 2024.
+    pdf: ./publication/2024_MICCAI/DSCENet.pdf
+    code: https://github.com/yuanzhang7/DSCENet
+    bibtex: ./publication/2024_MICCAI/DSCENet.txt
+    image: ./publication/2024_MICCAI/Challenge.jpg
+  
   - title: FedSoda Federated cross-assessment and dynamic aggregation for Histopathology Segmentation
     authors: <strong>Yuan Zhang</strong>, Yaolei Qi, Xiaoming Qi, LLotfi Senhadji, Yongyue Wei, Feng Chen, Guanyu Yang
     conference_short: ICASSP
@@ -9,7 +26,7 @@ main:
     # page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2024_ICASSP/FedSODA.txt
     image: ./publication/2024_ICASSP/FedSODA.jpg
-  
+
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
     authors: Yaolei Qi, Yuting He Xiaoming Qi, <strong>Yuan Zhang</strong>, Guanyu Yang
     conference_short: ICCV
