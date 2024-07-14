@@ -3,18 +3,18 @@ main:
    - title: Energy-induced Explicit quantification for Multi-modality MRI fusion
     authors: Xiaoming Qi, <strong>Yuan Zhang</strong>, Wang Tong, Guanyu Yang, Yueming Jin, Shou Li
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: ./publication/2024_ECCV/EEPA.pdf
+    pdf: ./publication/2024_ECCV/Paper.pdf
     code: https://github.com/JerryQseu/EEPA
-    bibtex: ./publication/2024_ECCV/EEPA.txt
-    image: ./publication/2024_IECCV/Challenge.jpg
+    bibtex: ./publication/2024_ECCV/Cite.txt
+    image: ./publication/2024_ECCV/Challenge.png
 
   - title: DSCENet: Dynamic Screening and Clinical-Enhanced Multimodal Fusion for MPNs Subtype Classification
     authors: <strong>Yuan Zhang</strong>, Yaolei Qi, Xiaoming Qi, Yongyue Wei, Guanyu Yang
     conference_short: ICASSP
     conference: The Medical Image Computing and Computer Assisted Intervention Society <strong>(MICCAI)</strong>, 2024.
-    pdf: ./publication/2024_MICCAI/DSCENet.pdf
+    pdf: ./publication/2024_MICCAI/Paper.pdf
     code: https://github.com/yuanzhang7/DSCENet
-    bibtex: ./publication/2024_MICCAI/DSCENet.txt
+    bibtex: ./publication/2024_MICCAI/Cite.txt
     image: ./publication/2024_MICCAI/Challenge.jpg
   
   - title: FedSoda Federated cross-assessment and dynamic aggregation for Histopathology Segmentation
