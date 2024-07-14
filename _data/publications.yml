@@ -1,5 +1,6 @@
 main:
-   - title: Energy-induced Explicit quantification for Multi-modality MRI fusion
+
+  - title: Energy-induced Explicit quantification for Multi-modality MRI fusion
     authors: Xiaoming Qi, <strong>Yuan Zhang</strong>, Wang Tong, Guanyu Yang, Yueming Jin, Shou Li
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
@@ -7,7 +8,6 @@ main:
     code: https://github.com/JerryQseu/EEPA
     bibtex: ./publication/2024_ECCV/Cite.txt
     image: ./publication/2024_ECCV/Challenge.png
-
   - title: DSCENet: Dynamic Screening and Clinical-Enhanced Multimodal Fusion for MPNs Subtype Classification
     authors: <strong>Yuan Zhang</strong>, Yaolei Qi, Xiaoming Qi, Yongyue Wei, Guanyu Yang
     conference_short: MICCAI
@@ -16,7 +16,6 @@ main:
     code: https://github.com/yuanzhang7/DSCENet
     bibtex: ./publication/2024_MICCAI/Cite.txt
     image: ./publication/2024_MICCAI/Challenge.jpg
-  
   - title: FedSoda Federated cross-assessment and dynamic aggregation for Histopathology Segmentation
     authors: <strong>Yuan Zhang</strong>, Yaolei Qi, Xiaoming Qi, LLotfi Senhadji, Yongyue Wei, Feng Chen, Guanyu Yang
     conference_short: ICASSP
@@ -26,7 +25,6 @@ main:
     # page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2024_ICASSP/FedSODA.txt
     image: ./publication/2024_ICASSP/FedSODA.jpg
-
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
     authors: Yaolei Qi, Yuting He Xiaoming Qi, <strong>Yuan Zhang</strong>, Guanyu Yang
     conference_short: ICCV
