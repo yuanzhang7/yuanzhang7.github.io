@@ -29,7 +29,7 @@ main:
     image: ./publication/2024_ICASSP/FedSODA.jpg
 
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
-    authors: Yaolei Qi, Yuting He Xiaoming Qi, <strong>Yuan Zhang</strong>, Guanyu Yang
+    authors: Yaolei Qi, Yuting He, Xiaoming Qi, <strong>Yuan Zhang</strong>, Guanyu Yang
     conference_short: ICCV
     conference: International Conference  on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: ./publication/2023_ICCV/DSCNet.pdf
