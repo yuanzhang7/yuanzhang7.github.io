@@ -47,6 +47,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Artificial Intelligence (TAI)</autocolor></a></li>
+  <li><a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging"><autocolor> 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)</autocolor></a></li>
   <!-- <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
   <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
