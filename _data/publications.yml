@@ -9,7 +9,7 @@ main:
     bibtex: ./publication/2024_ECCV/Cite.txt
     image: ./publication/2024_ECCV/Challenge.jpg
 
-  - title: DSCENet Dynamic Screening and Clinical-Enhanced Multimodal Fusion for MPNs Subtype Classification
+  - title: DSCENet Dynamic Screening and Clinical-Enhanced Multimodal Fusion for MPNs Subtype Classification <strong>(ORAL)</strong>
     authors: <strong>Yuan Zhang</strong>, Yaolei Qi, Xiaoming Qi, Yongyue Wei, Guanyu Yang
     conference_short: MICCAI
     conference: The Medical Image Computing and Computer Assisted Intervention Society <strong>(MICCAI)</strong>, 2024.
