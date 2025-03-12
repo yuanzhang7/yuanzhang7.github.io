@@ -46,9 +46,11 @@
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="[https://www.computer.org/csdl/journal/tp](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)"><autocolor>IEEE Journal of Biomedical and Health Informatics (JBHI)</autocolor></a></li>
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Artificial Intelligence (TAI)</autocolor></a></li>
   <li><a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging"><autocolor> 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)</autocolor></a></li>
   <li><a href="https://2025.ieeeicassp.org"><autocolor>2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</autocolor></a></li>
+  <li><a href="[https://2025.ieeeicassp.org](https://embc.embs.org/2025)"><autocolor>2025 The IEEE Engineering in Medicine and Biology Society (EMBC)</autocolor></a></li>
   
   <!-- <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
