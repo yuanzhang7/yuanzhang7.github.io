@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[June. 2025]</strong> Our paper about federated pathology segmentation is accepted to <a href="https://www.sciencedirect.com/science/article/pii/S1361841525002178">Medical Image Analysis</a>.</li>
 <li><strong>[Nov. 2024]</strong> Our paper about pathology classification is accepted to <a href="https://onlinelibrary.wiley.com/journal/13652141">British Journal of Haematology</a>.</li>
 <li><strong>[July. 2024]</strong> Our paper about multi-modality fusion is accepted to <a href="https://eccv.ecva.net/">ECCV 2024</a>.</li>
 <li><strong>[June. 2024]</strong> Our paper about multimodal learning is orally accepted to <a href="https://conferences.miccai.org/2024/en/">MICCAI 2024</a>.</li>

@@ -1,0 +1,13 @@
+@article{ZHANG2025103670,
+title = {PathFL: Multi-alignment Federated Learning for pathology image segmentation},
+journal = {Medical Image Analysis},
+volume = {105},
+pages = {103670},
+year = {2025},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2025.103670},
+url = {https://www.sciencedirect.com/science/article/pii/S1361841525002178},
+author = {Yuan Zhang and Feng Chen and Yaolei Qi and Guanyu Yang and Huazhu Fu},
+keywords = {Pathology image, Federated learning, Segmentation, Heterogeneity},
+abstract = {Pathology image segmentation across multiple centers encounters significant challenges due to diverse sources of heterogeneity including imaging modalities, organs, and scanning equipment, whose variability brings representation bias and impedes the development of generalizable segmentation models. In this paper, we propose PathFL, a novel multi-alignment Federated Learning framework for pathology image segmentation that addresses these challenges through three-level alignment strategies of image, feature, and model aggregation. Firstly, at the image level, a collaborative style enhancement module aligns and diversifies local data by facilitating style information exchange across clients. Secondly, at the feature level, an adaptive feature alignment module ensures implicit alignment in the representation space by infusing local features with global insights, promoting consistency across heterogeneous client features learning. Finally, at the model aggregation level, a stratified similarity aggregation strategy hierarchically aligns and aggregates models on the server, using layer-specific similarity to account for client discrepancies and enhance global generalization. Comprehensive evaluations on four sets of heterogeneous pathology image datasets, encompassing cross-source, cross-modality, cross-organ, and cross-scanner variations, validate the effectiveness of our PathFL in achieving better performance and robustness against data heterogeneity. The code is available at https://github.com/yuanzhang7/PathFL.}
+} 

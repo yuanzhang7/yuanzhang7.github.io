@@ -1,5 +1,14 @@
 main:
 
+  - title: PathFL Multi-alignment Federated Learning for pathology image segmentation
+    authors: <strong>Yuan Zhang</strong>, Feng Chen, Yaolei Qi, Guanyu Yang, Huazhu Fu
+    journal_short: MIA
+    journal: Medical Image Analysis <strong>(MIA)</strong>, 2025.
+    pdf: ./publication/2025_MIA/Paper.pdf
+    code: https://github.com/yuanzhang7/PathFL
+    bibtex: ./publication/2025_MIA/Cite.txt
+    image: ./publication/2025_MIA/Challenge.jpg
+
   - title: Energy-induced Explicit quantification for Multi-modality MRI fusion
     authors: Xiaoming Qi, <strong>Yuan Zhang</strong>, Wang Tong, Guanyu Yang, Yueming Jin, Shou Li
     conference_short: ECCV
