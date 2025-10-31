@@ -1,9 +1,18 @@
 main:
 
+  - title: Content Generation Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges
+    authors: <strong>Yuan Zhang</strong>, XinFeng Zhang, Xiaoming Qi, Xinyu Wu,Feng Chen, Guanyu Yang, Huazhu Fu
+    conference_short: RBME
+    conference: IEEE Reviews in Biomedical Engineering <strong>(RBME)</strong>, 2025.
+    pdf: ./publication/2025_RBME/Paper.pdf
+    code: https://github.com/yuanzhang7/Awesome-Generative-Models-in-Pathology
+    bibtex: ./publication/2025_RBME/Cite.txt
+    image: ./publication/2025_RBME/Fig.jpg
+
   - title: PathFL Multi-alignment Federated Learning for pathology image segmentation
     authors: <strong>Yuan Zhang</strong>, Feng Chen, Yaolei Qi, Guanyu Yang, Huazhu Fu
-    journal_short: MIA
-    journal: Medical Image Analysis <strong>(MIA)</strong>, 2025.
+    conference_short: MedIA
+    conference: Medical Image Analysis <strong>(MIA)</strong>, 2025.
     pdf: ./publication/2025_MIA/Paper.pdf
     code: https://github.com/yuanzhang7/PathFL
     bibtex: ./publication/2025_MIA/Cite.txt

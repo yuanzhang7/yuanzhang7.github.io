@@ -1,0 +1,10 @@
+@ARTICLE{11219055,
+  author={Zhang, Yuan and Zhang, Xinfeng and Qi, Xiaoming and Wu, Xinyu and Chen, Feng and Yang, Guanyu and Fu, Huazhu},
+  journal={IEEE Reviews in Biomedical Engineering}, 
+  title={Content Generation Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-22},
+  keywords={Pathology;Computational modeling;Diffusion models;Biological system modeling;Data models;Reviews;Surveys;Decoding;Noise reduction;Generative adversarial networks;Computational pathology;generative models;diffusion models;generative adversarial networks;synthetic medical images},
+  doi={10.1109/RBME.2025.3619086}}
