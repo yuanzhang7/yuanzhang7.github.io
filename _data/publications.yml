@@ -7,7 +7,7 @@ main:
     pdf: ./publication/2025_RBME/Paper.pdf
     code: https://github.com/yuanzhang7/Awesome-Generative-Models-in-Pathology
     bibtex: ./publication/2025_RBME/Cite.txt
-    image: ./publication/2025_RBME/Fig.jpg
+    image: ./publication/2025_RBME/Challenge.jpg
 
   - title: PathFL Multi-alignment Federated Learning for pathology image segmentation
     authors: <strong>Yuan Zhang</strong>, Feng Chen, Yaolei Qi, Guanyu Yang, Huazhu Fu
