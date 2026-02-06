@@ -49,6 +49,7 @@
   <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020"><autocolor>IEEE Journal of Biomedical and Health Informatics (JBHI)</autocolor></a></li>
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Artificial Intelligence (TAI)</autocolor></a></li>
+  <li><a href="https://cvpr.thecvf.com/Conferences/2026"><autocolor> The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR)</autocolor></a></li>
   <li><a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging"><autocolor> 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)</autocolor></a></li>
   <li><a href="https://2025.ieeeicassp.org"><autocolor>2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</autocolor></a></li>
   <li><a href="https://embc.embs.org/2025"><autocolor>2025 The IEEE Engineering in Medicine and Biology Society (EMBC)</autocolor></a></li>
